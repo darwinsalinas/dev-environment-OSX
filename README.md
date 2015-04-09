@@ -7,6 +7,6 @@ Debe tener Xcode/Command Line Tools Instalado previamente a la ejecución de est
 Si aun no lo tienes puedes descargarlo desde este enlace:
  [Xcode](https://developer.apple.com/downloads)
 
- ### Instalación
+ ##Instalación
 
  ./instalar.sh
