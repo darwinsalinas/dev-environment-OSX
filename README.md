@@ -8,4 +8,5 @@ Si aun no lo tienes puedes descargarlo desde este enlace:
  [Xcode](https://developer.apple.com/downloads)
 
  ## Instalación
+ 
  ./instalar.sh
